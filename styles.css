@@ -119,3 +119,32 @@ input[type="submit"] {
 input[type="submit"]:hover {
     background: #415e53;
 }
+
+/* Address Block Styles */
+#address {
+    margin-top: 40px;
+    padding: 20px;
+    background-color: #e0e0e0;
+    border-radius: 5px;
+    text-align: center;
+}
+
+#address h2 {
+    margin-bottom: 20px;
+    color: #517C66;
+}
+
+address {
+    font-style: normal;
+    line-height: 1.8;
+    color: #333;
+}
+
+address a {
+    color: #517C66;
+    text-decoration: none;
+}
+
+address a:hover {
+    text-decoration: underline;
+}
